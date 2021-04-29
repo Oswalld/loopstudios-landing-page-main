@@ -89,6 +89,10 @@ header{
 
     z-index: -3;
 }
+.showNav{
+    transform: translateX(0vw);
+    transition: 0.6s;
+}
 .nav-mobile a{
     font-size: 2rem;
     padding: 1rem 0 1rem 2rem;
